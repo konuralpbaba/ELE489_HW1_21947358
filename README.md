@@ -1,4 +1,4 @@
-k-NN (k-Nearest Neighbors) Algorithm Implementation
+**k-NN (k-Nearest Neighbors) Algorithm Implementation**
 
 
 
@@ -13,7 +13,7 @@ The project includes:
 
 
 
-Requirements
+**Requirements**
 
 
 
@@ -26,19 +26,25 @@ Before running the code, you will need to install the following Python libraries
 •	sklearn: for utilities like dataset loading, model evaluation, etc.
 
 
+**Install the required package:**
+
+pip install pandas numpy matplotlib seaborn scikit-learn
 
 
-Dataset
+
+**Dataset**
 
 
 
 The dataset used in this project is the Wine dataset, which contains data about different wine varieties. The dataset consists of 13 features (such as alcohol content, phenols, and acidity) and 3 classes corresponding to 3 different wine types.
 
-The dataset is included as wine.data in the project directory.
+Link to the dataset is: https://archive.ics.uci.edu/dataset/109/wine
 
 
 
-Instructions to Run the Code
+**Instructions to Run the Code**
+
+
 1.	Clone the repository or download the project files to your local machine.
 2.	Prepare your environment:
 o	Ensure that Python and required libraries are installed (as mentioned in the requirements).
